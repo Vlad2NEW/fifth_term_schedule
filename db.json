@@ -1,15 +1,523 @@
 {
-  "posts": [
+  "weeks": [
     {
-      "id": 1,
-      "title": "hello"
+      "weekName": "1: Чисельник, Тижнi: 36, 40, 44, 48",
+      "schedules": [
+        {
+          "day": "Понеділок",
+          "lessons": [
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "Англ. мова",
+              "time": "13:00 - 14:20",
+              "room": "4-412",
+              "type": "practice",
+              "color": "green"
+            },
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "14:35 - 15:55",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "16:10 - 17:30",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        },
+        {
+          "day": "Вівторок",
+          "lessons": [
+            {
+              "subject": "ГСЕТУ",
+              "time": "9:35 - 10:55",
+              "room": "ТКМ",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "ОКРПЗ",
+              "time": "11:10 - 12:30",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            }
+          ]
+        },
+        {
+          "day": "Середа",
+          "lessons": [
+            {
+              "subject": "ГСЕТУ",
+              "time": "9:35 - 10:55",
+              "room": "4-426а",
+              "type": "practice",
+              "color": "green"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "13:00 - 14:20",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        },
+        {
+          "day": "Четвер",
+          "lessons": [
+            {
+              "subject": "ОКРПЗ",
+              "time": "8:00 - 9:20",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "ОКРПЗ",
+              "time": "9:35 - 10:55",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            }
+          ]
+        },
+        {
+          "day": "П'ятниця",
+          "lessons": [
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "Англ. мова",
+              "time": "13:00 - 14:20",
+              "room": "4-412",
+              "type": "practice",
+              "color": "green"
+            },
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "14:35 - 15:55",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "16:10 - 17:30",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 2,
-      "title": "fifth_term_schedule"
+      "weekName": "2: Знаменник, Тижнi: 37, 41, 45",
+      "schedules": [
+        {
+          "day": "Понеділок",
+          "lessons": [
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "Англ. мова",
+              "time": "13:00 - 14:20",
+              "room": "4-412",
+              "type": "practice",
+              "color": "green"
+            }
+          ]
+        },
+        {
+          "day": "Вівторок",
+          "lessons": [
+            {
+              "subject": "ОКРПЗ",
+              "time": "11:10 - 12:30",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            }
+          ]
+        },
+        {
+          "day": "Середа",
+          "lessons": [
+            {
+              "subject": "ГСЕТУ",
+              "time": "9:35 - 10:55",
+              "room": "4-426а",
+              "type": "practice",
+              "color": "green"
+            }
+          ]
+        },
+        {
+          "day": "Четвер",
+          "lessons": [
+            {
+              "subject": "ОКРПЗ",
+              "time": "9:35 - 10:55",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "14:35 - 15:55",
+              "room": "4-526",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "16:10 - 17:30",
+              "room": "4-526",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        },
+        {
+          "day": "П'ятниця",
+          "lessons": [
+            {
+              "subject": "ОКРПЗ",
+              "time": "11:10 - 12:30",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekName": "3: Чисельник, Тижнi: 38, 42, 46",
+      "schedules": [
+        {
+          "day": "Понеділок",
+          "lessons": [
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "Англ. мова",
+              "time": "13:00 - 14:20",
+              "room": "4-412",
+              "type": "practice",
+              "color": "green"
+            },
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "14:35 - 15:55",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "16:10 - 17:30",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        },
+        {
+          "day": "Вівторок",
+          "lessons": [
+            {
+              "subject": "ГСЕТУ",
+              "time": "9:35 - 10:55",
+              "room": "ТКМ",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "ОКРПЗ",
+              "time": "11:10 - 12:30",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            }
+          ]
+        },
+        {
+          "day": "Середа",
+          "lessons": [
+            {
+              "subject": "ГСЕТУ",
+              "time": "9:35 - 10:55",
+              "room": "4-426а",
+              "type": "practice",
+              "color": "green"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "13:00 - 14:20",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        },
+        {
+          "day": "Четвер",
+          "lessons": [
+            {
+              "subject": "ОКРПЗ",
+              "time": "8:00 - 9:20",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "ОКРПЗ",
+              "time": "9:35 - 10:55",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            }
+          ]
+        },
+        {
+          "day": "П'ятниця",
+          "lessons": [
+            {
+              "subject": "ГСЕТУ",
+              "time": "9:35 - 10:55",
+              "room": "4-426а",
+              "type": "practice",
+              "color": "green"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "13:00 - 14:20",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekName": "4: Знаменник, Тижнi: 39, 43, 47",
+      "schedules": [
+        {
+          "day": "Понеділок",
+          "lessons": [
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "Англ. мова",
+              "time": "13:00 - 14:20",
+              "room": "4-412",
+              "type": "practice",
+              "color": "green"
+            }
+          ]
+        },
+        {
+          "day": "Вівторок",
+          "lessons": [
+            {
+              "subject": "ОКРПЗ",
+              "time": "11:10 - 12:30",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            }
+          ]
+        },
+        {
+          "day": "Середа",
+          "lessons": [
+            {
+              "subject": "ГСЕТУ",
+              "time": "9:35 - 10:55",
+              "room": "4-426а",
+              "type": "practice",
+              "color": "green"
+            }
+          ]
+        },
+        {
+          "day": "Четвер",
+          "lessons": [
+            {
+              "subject": "ОКРПЗ",
+              "time": "9:35 - 10:55",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "14:35 - 15:55",
+              "room": "4-526",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "16:10 - 17:30",
+              "room": "4-526",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        },
+        {
+          "day": "П'ятниця",
+          "lessons": [
+            {
+              "subject": "ОКРПЗ",
+              "time": "9:35 - 10:55",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "14:35 - 15:55",
+              "room": "4-526",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "16:10 - 17:30",
+              "room": "4-526",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        }
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
