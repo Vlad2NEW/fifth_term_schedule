@@ -529,15 +529,15 @@
               "subject": "Англ. мова",
               "time": "25.11-29.11.24",
               "room": "4-412",
-              "type": "practice",
-              "color": "green"
+              "type": "test",
+              "color": "blue"
             },
             {
               "subject": "ОКРПЗ",
               "time": "25.11-29.11.24",
               "room": "1-209б",
-              "type": "lab",
-              "color": "purple"
+              "type": "test",
+              "color": "blue"
             }
           ]
         },
@@ -548,8 +548,8 @@
               "subject": "ГСЕТУ",
               "time": "Невідомо коли",
               "room": "ТКМ",
-              "type": "practice",
-              "color": "green"
+              "type": "exam",
+              "color": "purple"
             }
           ]
         }
