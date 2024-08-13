@@ -518,6 +518,127 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "weekName": "Контрольні заходи",
+      "schedules": [
+        {
+          "day": "Заліки",
+          "lessons": [
+            {
+              "subject": "Англ. мова",
+              "time": "25.11-29.11.24",
+              "room": "4-412",
+              "type": "practice",
+              "color": "green"
+            },
+            {
+              "subject": "ОКРПЗ",
+              "time": "25.11-29.11.24",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        },
+        {
+          "day": "Iспити",
+          "lessons": [
+            {
+              "subject": "ГСЕТУ",
+              "time": "Невідомо коли",
+              "room": "ТКМ",
+              "type": "practice",
+              "color": "green"
+            }
+          ]
+        },
+        {
+          "day": "Середа",
+          "lessons": [
+            {
+              "subject": "ГСЕТУ",
+              "time": "9:35 - 10:55",
+              "room": "4-426а",
+              "type": "practice",
+              "color": "green"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "МОПЗ",
+              "time": "13:00 - 14:20",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        },
+        {
+          "day": "Четвер",
+          "lessons": [
+            {
+              "subject": "ОКРПЗ",
+              "time": "8:00 - 9:20",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "ОКРПЗ",
+              "time": "9:35 - 10:55",
+              "room": "1-209б",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "13:00 - 14:20",
+              "room": "1-209б",
+              "type": "lecture",
+              "color": "blue"
+            }
+          ]
+        },
+        {
+          "day": "П'ятниця",
+          "lessons": [
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "11:10 - 12:30",
+              "room": "1-201",
+              "type": "lecture",
+              "color": "blue"
+            },
+            {
+              "subject": "Англ. мова",
+              "time": "13:00 - 14:20",
+              "room": "4-412",
+              "type": "practice",
+              "color": "green"
+            },
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "14:35 - 15:55",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            },
+            {
+              "subject": "Людинно-машинна взаємодiя",
+              "time": "16:10 - 17:30",
+              "room": "1-201",
+              "type": "lab",
+              "color": "purple"
+            }
+          ]
+        }
+      ]
+    },
   ]
 }
