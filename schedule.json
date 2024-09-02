@@ -1029,7 +1029,13 @@
               "room": "1-209б",
               "type": "test",
               "color": "blue"
-            }
+            },{
+              "subject": "ГСЕТУ",
+              "time": "25.11-29.11.24",
+              "room": "ТКМ",
+              "type": "test",
+              "color": "blue"
+            },
           ]
         },
         {
@@ -1041,9 +1047,35 @@
               "room": "ТКМ",
               "type": "exam",
               "color": "purple"
+            },
+            {
+              "subject": "Людино-машинна взаємодія",
+              "time": "Невідомо коли",
+              "room": "1-201",
+              "type": "exam",
+              "color": "purple"
+            },
+            {
+              "subject": "Програмування Internet",
+              "time": "Невідомо коли",
+              "room": "4-526",
+              "type": "exam",
+              "color": "purple"
             }
           ]
-        }
+        },
+        {
+          "day": "Курсова",
+          "lessons": [
+             {
+              "subject": "Програмування Internet",
+              "time": "Невідомо коли",
+              "room": "4-526",
+              "type": "special",
+              "color": "purple"
+            }
+          ]
+        },
       ]
     }
   ]
