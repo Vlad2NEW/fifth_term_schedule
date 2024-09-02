@@ -1071,11 +1071,11 @@
               "subject": "Програмування Internet",
               "time": "Невідомо коли",
               "room": "4-526",
-              "type": "exam",
+              "type": "special",
               "color": "purple"
             }
           ]
-        },
+        }
       ]
     }
   ]
