@@ -94,14 +94,14 @@
             {
               "subject": "ОКРПЗ",
               "time": "8:00 - 9:20",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -208,7 +208,7 @@
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -222,14 +222,14 @@
             {
               "subject": "Програмування Internet",
               "time": "14:35 - 15:55",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "Програмування Internet",
               "time": "16:10 - 17:30",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             }
@@ -357,14 +357,14 @@
             {
               "subject": "ОКРПЗ",
               "time": "8:00 - 9:20",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -464,7 +464,7 @@
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -478,14 +478,14 @@
             {
               "subject": "Програмування Internet",
               "time": "14:35 - 15:55",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "Програмування Internet",
               "time": "16:10 - 17:30",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             }
@@ -497,14 +497,14 @@
             {
               "subject": "ОКРПЗ",
               "time": "8:00 - 9:20",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -613,14 +613,14 @@
             {
               "subject": "ОКРПЗ",
               "time": "8:00 - 9:20",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -713,7 +713,7 @@
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -727,14 +727,14 @@
             {
               "subject": "Програмування Internet",
               "time": "14:35 - 15:55",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "Програмування Internet",
               "time": "16:10 - 17:30",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             }
@@ -855,14 +855,14 @@
             {
               "subject": "ОКРПЗ",
               "time": "8:00 - 9:20",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -948,7 +948,7 @@
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -962,14 +962,14 @@
             {
               "subject": "Програмування Internet",
               "time": "14:35 - 15:55",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "Програмування Internet",
               "time": "16:10 - 17:30",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             }
@@ -981,7 +981,7 @@
             {
               "subject": "ОКРПЗ",
               "time": "9:35 - 10:55",
-              "room": "1-209б",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
@@ -995,14 +995,14 @@
             {
               "subject": "Програмування Internet",
               "time": "14:35 - 15:55",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             },
             {
               "subject": "Програмування Internet",
               "time": "16:10 - 17:30",
-              "room": "4-526",
+              "room": "1-201",
               "type": "lab",
               "color": "purple"
             }
@@ -1071,7 +1071,7 @@
              {
               "subject": "Програмування Internet",
               "time": "Невідомо коли",
-              "room": "4-526",
+              "room": "1-201",
               "type": "exam",
               "color": "purple"
             }
