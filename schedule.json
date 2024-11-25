@@ -1043,23 +1043,23 @@
           "day": "Iспити",
           "lessons": [
             {
-              "subject": "МОПЗ",
-              "time": "Невідомо коли",
-              "room": "1-209б",
+              "subject": "Людинно-машинна взаємодія",
+              "time": "10.12.2024",
+              "room": "онлайн?",
               "type": "exam",
               "color": "purple"
             },
             {
-              "subject": "Людино-машинна взаємодія",
-              "time": "Невідомо коли",
-              "room": "1-201",
+              "subject": "МОПЗ",
+              "time": "16.12.2024",
+              "room": "онлайн?",
               "type": "exam",
               "color": "purple"
             },
             {
               "subject": "Програмування Internet",
-              "time": "Невідомо коли",
-              "room": "4-526",
+              "time": "20.12.2024",
+              "room": "онлайн?",
               "type": "exam",
               "color": "purple"
             }
@@ -1070,8 +1070,8 @@
           "lessons": [
              {
               "subject": "Програмування Internet",
-              "time": "Невідомо коли",
-              "room": "1-201",
+              "time": "28.11.2024",
+              "room": "1-209б",
               "type": "exam",
               "color": "purple"
             }
