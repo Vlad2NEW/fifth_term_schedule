@@ -1018,21 +1018,21 @@
           "lessons": [
             {
               "subject": "Англ. мова",
-              "time": "25.11-29.11.24",
+              "time": "02.12-08.12.24",
               "room": "4-412",
               "type": "test",
               "color": "blue"
             },
             {
               "subject": "ОКРПЗ",
-              "time": "25.11-29.11.24",
+              "time": "02.12-08.12.24",
               "room": "1-209б",
               "type": "test",
               "color": "blue"
             },
             {
               "subject": "ГСЕТУ",
-              "time": "25.11-29.11.24",
+              "time": "02.12-08.12.24",
               "room": "ТКМ",
               "type": "test",
               "color": "blue"
@@ -1044,22 +1044,22 @@
           "lessons": [
             {
               "subject": "Людинно-машинна взаємодія",
-              "time": "10.12.2024",
-              "room": "онлайн?",
+              "time": "10.12.2024, 09:00",
+              "room": "1-201",
               "type": "exam",
               "color": "purple"
             },
             {
               "subject": "МОПЗ",
-              "time": "16.12.2024",
-              "room": "онлайн?",
+              "time": "16.12.2024, 12:00",
+              "room": "1-201",
               "type": "exam",
               "color": "purple"
             },
             {
               "subject": "Програмування Internet",
-              "time": "20.12.2024",
-              "room": "онлайн?",
+              "time": "20.12.2024, 12:00",
+              "room": "1-201",
               "type": "exam",
               "color": "purple"
             }
